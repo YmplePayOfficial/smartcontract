@@ -1,5 +1,5 @@
 
-![2](https://www.ymplepay.com/img/logo/ymplepay-200x200.png)
+![2](https://avatars.githubusercontent.com/u/94490581?s=200&v=4)
 
 # BoxerToken smartcontract
 YMPA smartcontract address 0x5f7871433322b9f9795b97801ec3396276d1d056
@@ -12,7 +12,7 @@ A new payment protocol to accept and send cryptocurrency
 
 * VERIFIED CONTRACT : https://bscscan.com/address/0x5f7871433322b9f9795b97801ec3396276d1d056
 
-![rsz_14](https://www.ymplepay.com/img/logo/ymplepay-200x200.png)\
+![rsz_14](https://avatars.githubusercontent.com/u/94490581?s=200&v=4)\
 🦴 Name : Ympla\
 🦴 Symbol : YMPA\
 🦴 Supply: 100,000,000,000 YMPA\
