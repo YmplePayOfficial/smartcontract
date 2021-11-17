@@ -37,5 +37,5 @@ Open the following link: https://pancakeswap.finance/swap?outputCurrency=0x5f787
 
 
 
-![3](https://www.ymplepay.com/img/logo/ymplepay-200x200.pn)
+![3](https://www.ymplepay.com/img/logo/ymplepay-200x200.png)
 
