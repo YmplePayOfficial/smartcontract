@@ -13,9 +13,9 @@ A new payment protocol to accept and send cryptocurrency
 * VERIFIED CONTRACT : https://bscscan.com/address/0x5f7871433322b9f9795b97801ec3396276d1d056
 
 ![rsz_14](https://avatars.githubusercontent.com/u/94490581?s=200&v=4)\
-🦴 Name : Ympla\
-🦴 Symbol : YMPA\
-🦴 Supply: 100,000,000,000 YMPA\
+Name : Ympla\
+Symbol : YMPA\
+Supply: 100,000,000,000 YMPA\
 
 
 # Website and Social Media
@@ -25,7 +25,7 @@ A new payment protocol to accept and send cryptocurrency
 * GITHUB : https://github.com/YmplePayOfficial
 
 
-# How To Buy BOXER Inu
+# How To Buy YMPA
 01. Create a Metamask Wallet
 Download/install metamask from Chrome at this link: (https://metamask.io/download.html) Or download/install MetaMask on your phone. Create a wallet or import one, be sure to store your keyphrase safely.
 
