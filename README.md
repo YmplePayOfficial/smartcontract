@@ -1,7 +1,7 @@
 
 ![2](https://avatars.githubusercontent.com/u/94490581?s=200&v=4)
 
-# BoxerToken smartcontract
+# YmpaToken smartcontract
 YMPA smartcontract address 0x5f7871433322b9f9795b97801ec3396276d1d056
 
 # Explorer
@@ -35,7 +35,4 @@ Switch to BSC Network MetaMask to Binance Smart Chain You can buy $YMPA with the
 03. Visit our pancakeswap Page
 Open the following link: https://pancakeswap.finance/swap?outputCurrency=0x5f7871433322b9f9795b97801ec3396276d1d056
 
-
-
-![3](https://www.ymplepay.com/img/logo/ymplepay-200x200.png)
-
+    
