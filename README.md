@@ -26,11 +26,13 @@ Supply: 100,000,000,000 YMPA\
 
 
 # How To Buy YMPA
-01. Create a Metamask Wallet
+1. Create a Metamask Wallet
 Download/install metamask from Chrome at this link: (https://metamask.io/download.html) Or download/install MetaMask on your phone. Create a wallet or import one, be sure to store your keyphrase safely.
 
-02. Setting BSC Network:
+2. Setting BSC Network:
 Switch to BSC Network MetaMask to Binance Smart Chain You can buy $YMPA with the BSC network only.
 
-03. Visit our pancakeswap Page
+3. Visit our pancakeswap Page
 Open the following link: https://pancakeswap.finance/swap?outputCurrency=0x5f7871433322b9f9795b97801ec3396276d1d056
+
+
